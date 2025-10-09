@@ -1,6 +1,6 @@
 # HH-parser
 
-запуск: python -m hh_parser.main "ключи"
+запуск: python -m hh_parser.main "ключи"<br>
 ключи: 
 --text - поисковый запрос (обязательное поле)
 --area - id региона
